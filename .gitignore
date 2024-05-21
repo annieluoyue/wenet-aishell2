@@ -1,0 +1,6 @@
+utils/aishell1_whisperaishell2/wav.scp
+utils/faster-whisper-aishell2/wav.scp
+utils/train/data.list
+utils/aishell1_whisperaishell2/data.list
+utils/faster-whisper-aishell2/data.list
+
